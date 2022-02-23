@@ -1,3 +1,4 @@
+
 node {
     env.NODEJS_HOME = "${tool 'Node 6.x'}"
     // on linux / mac
